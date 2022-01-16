@@ -27,7 +27,7 @@ If you want to buy a good filter coffee maker, see ['Delonghi Filter coffee make
 
 5- Press the start button to begin the coffee maker’s brew cycle. Most auto drip coffee makers will have a simple “start” button or switch.
 
-*Your morning coffee is ready. Enjoy it.
+* Your morning coffee is ready. Enjoy it.
 
 ## 2- Make coffee with a Moka Pot
 Making coffee in this method creates a thick, strong coffee, with water pushed up through the coffee grounds as it boils, extracting as it goes. For making coffee in this way, you need a good Moka Pot.
@@ -43,4 +43,4 @@ If you want to buy a Moka Pot, see ['Best Moka Pot'](https://www.shopcoffee.co.u
 
 4- Once the pot starts to hiss, the coffee is ready and should be served immediately! Water this one down if needs be – it’s strong!
 
-*Your morning coffee is ready. Enjoy it.
+* Your morning coffee is ready. Enjoy it.
