@@ -6,7 +6,8 @@ Now, let's learn how to make the perfect cup of coffee in your kitchen for start
 
 You can make a good coffee at home in 2 ways:
 
-|  Use a Filter Coffee Maker |  Use a Moka Pot  |
+|  Use a Filter Coffee Maker  |  Use a Moka Pot |
+|  -------------------------- | --------------- |
 
 Let's see how to make your morning coffee in each way:
 
