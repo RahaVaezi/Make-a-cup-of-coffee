@@ -6,13 +6,13 @@ Now, let's learn how to make the perfect cup of coffee.
 
 You can make a good coffee in 2 ways:
 
-1- Use an Automatic Coffee Maker
+1- Use an Filter Coffee Maker
 
 2- Use a Moka Pot
 
 Let's see how to make your morning coffee in each way:
 
-## 1- Make coffee with an Automatic Coffe Maker
+## 1- Make coffee with an Filter Coffe Maker
 1- Grind coffee to a medium-fine particle size. 
 
 2- Place coffee filter in filter basket. All auto drip coffee makers have a filter basket that is usually right under the brew head (where the hot water comes out).
@@ -25,4 +25,4 @@ Let's see how to make your morning coffee in each way:
 
 Your morning coffee is ready. Enjoy it.
 
-If you want to buy a good coffee maker, see ['Delonghi filter coffee makers'](https://www.delonghi.com/en-gb/products/coffee/filter-coffee-makers/c/filter_coffee_makers)
+If you want to buy a good coffee maker, see ['Delonghi Filter coffee makers'](https://www.delonghi.com/en-gb/products/coffee/filter-coffee-makers/c/filter_coffee_makers)
