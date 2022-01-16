@@ -12,7 +12,8 @@ You can make a good coffee at home in 2 ways:
 Let's see how to make your morning coffee in each way:
 
 ## 1- Make coffee with a Filter Coffee Maker
-For making coffe with a Filter Coffee Maker, you need a high quality coffee maker. 
+For making coffe with a Filter Coffee Maker, you need a high quality coffee maker.
+
 If you want to buy a good filter coffee maker, **see ['Delonghi Filter coffee makers'](https://www.delonghi.com/en-gb/products/coffee/filter-coffee-makers/c/filter_coffee_makers)**
 
 ![image](https://www.delonghi.com/Global/Products/Images/Coffee-Makers/Drip-Coffee-Makers/ICM17210/image7.jpg)
