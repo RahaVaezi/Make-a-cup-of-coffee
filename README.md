@@ -16,6 +16,8 @@ Let's see how to make your morning coffee in each way:
 For making coffe with a Filter Coffee Maker, you need a high quality coffee maker. 
 If you want to buy a good filter coffee maker, see ['Delonghi Filter coffee makers'](https://www.delonghi.com/en-gb/products/coffee/filter-coffee-makers/c/filter_coffee_makers)
 
+### Now let's start making your cup of coffee step by step
+
 1- Grind coffee to a medium-fine particle size.
 
 2- Place coffee filter in filter basket. All auto drip coffee makers have a filter basket that is usually right under the brew head (where the hot water comes out).
