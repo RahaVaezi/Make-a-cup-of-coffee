@@ -25,4 +25,4 @@ Let's see how to make your morning coffee in each way:
 
 Your morning coffee is ready. Enjoy it.
 
-If you want to buy a good coffee maker, see ['Delonghi Filter coffee makers'](https://www.delonghi.com/en-gb/products/coffee/filter-coffee-makers/c/filter_coffee_makers)
+If you want to buy a good filter coffee maker, see ['Delonghi Filter coffee makers'](https://www.delonghi.com/en-gb/products/coffee/filter-coffee-makers/c/filter_coffee_makers)
