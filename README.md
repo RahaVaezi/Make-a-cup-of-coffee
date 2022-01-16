@@ -6,6 +6,6 @@ Now, let's learn how to make the perfect cup of coffee.
 
 You can make a good coffee in 2 ways:
 
-1- Use a Automatic Coffee Maker
+1- Use an Automatic Coffee Maker
 
 2- Use a Moka Pot
