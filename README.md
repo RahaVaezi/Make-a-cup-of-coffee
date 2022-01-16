@@ -3,6 +3,9 @@ Are you getting used to drinking coffee every day? If yes, so this is important 
 
 Good coffee in the morning can change everything and no matter if you had a nightmare last night or you had a magic dream.
 Now, let's learn how to make the perfect cup of coffee.
+
 You can make a good coffee in 2 ways:
-Use a good Coffee Maker or
-Use a Moka Pot
+
+1- Use a good Coffee Maker
+
+2- Use a Moka Pot
