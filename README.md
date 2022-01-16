@@ -13,8 +13,7 @@ Let's see how to make your morning coffee in each way:
 
 ## 1- Make coffee with a Filter Coffee Maker
 For making coffe with a Filter Coffee Maker, you need a high quality coffee maker. 
-If you want to buy a good filter coffee maker, 
-##### see ['Delonghi Filter coffee makers'](https://www.delonghi.com/en-gb/products/coffee/filter-coffee-makers/c/filter_coffee_makers)
+If you want to buy a good filter coffee maker, **see ['Delonghi Filter coffee makers'](https://www.delonghi.com/en-gb/products/coffee/filter-coffee-makers/c/filter_coffee_makers)**
 
 ![image](https://www.delonghi.com/Global/Products/Images/Coffee-Makers/Drip-Coffee-Makers/ICM17210/image7.jpg)
 
@@ -34,8 +33,7 @@ Your morning coffee is ready. Enjoy it. :coffee::yum:
 ## 2- Make coffee with a Moka Pot
 Making coffee in this method creates a thick, strong coffee, with water pushed up through the coffee grounds as it boils, extracting as it goes. For making coffee in this way, you need a good Moka Pot.
 
-If you want to buy a Moka Pot, 
-##### see ['Best Moka Pot'](https://www.shopcoffee.co.uk/shop/brewing-equipment/moka-pot)
+If you want to buy a Moka Pot, **see ['Best Moka Pot'](https://www.shopcoffee.co.uk/shop/brewing-equipment/moka-pot)**
 
 ![image](https://images.squarespace-cdn.com/content/v1/5ac56db6e7494092b347950f/1522896847029-3B9PVPTR281KKX10U4JT/HandsomeWade-Moka-Pot-Espresso-3.jpg?format=1000w)
 
